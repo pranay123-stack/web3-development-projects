@@ -1,3 +1,18 @@
+> ### ⚠️ Design specification — not implemented
+>
+> **This repository contains a design document only. There is no source code here.**
+>
+> Everything below describes an intended architecture. Any performance figure, benchmark,
+> latency target, throughput number or Sharpe ratio in this document is a **design target
+> that has never been measured**, not a result. Installation and usage instructions
+> describe files that do not exist in this repository.
+>
+> It is published as a specification and planning artefact. For systems that are actually
+> built and tested, see
+> **[onchain-protocol-engineering](https://github.com/pranay123-stack/onchain-protocol-engineering)**.
+
+---
+
 # Web3 Development Projects
 
 A curated collection of Web3, blockchain, and decentralized application (dApp) projects — from foundational smart contracts to full-stack DeFi protocols. Built for learning, experimentation, and real-world deployment.
