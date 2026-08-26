@@ -9,7 +9,7 @@
 >
 > It is published as a specification and planning artefact. For systems that are actually
 > built and tested, see
-> **[onchain-protocol-engineering](https://github.com/pranay123-stack/onchain-protocol-engineering)**.
+> **[web3-infrastructure](https://github.com/pranay123-stack/web3-infrastructure)**.
 
 ---
 
